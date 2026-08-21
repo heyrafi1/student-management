@@ -11,3 +11,4 @@
 - Added student semester.
 - Added student credit hours.
 - Added student status.
+- Increased student name field length.

@@ -11,3 +11,4 @@
 - Student semester field added
 - Student credit hours field added
 - Student status field added (Active/Inactive/Graduated)
+- Increased maximum student name length to 100 characters
