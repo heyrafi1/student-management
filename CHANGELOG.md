@@ -15,3 +15,4 @@
 - Increased address field capacity.
 - Increased phone number field capacity.
 - Renamed student id field.
+- Renamed student name field.

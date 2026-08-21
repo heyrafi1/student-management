@@ -3,7 +3,7 @@
 
 typedef struct {
     int studentId;        // renamed from id for clarity
-    char name[100];       // increased size to fit longer names
+    char studentName[100]; // renamed from name for clarity
     int age;              // student's age
     float cgpa;           // cumulative GPA
     char department[50];  // e.g CSE, EEE, BBA
