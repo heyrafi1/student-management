@@ -8,7 +8,7 @@ typedef struct {
     float cgpa;           // cumulative GPA
     char department[50];  // e.g CSE, EEE, BBA
     char email[100];      // contact email
-    char phone[20];       // contact number
+    char phone[25];       // increased size to fit country code / extensions
     char address[200];    // increased size for longer addresses
     char gender[10];      // e.g Male, Female
     int semester;         // current semester number
