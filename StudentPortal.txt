@@ -7,4 +7,5 @@ typedef struct {
     int age;              // student's age
     float cgpa;           // cumulative GPA
     char department[50];  // e.g CSE, EEE, BBA
+    char email[100];      // contact email
 } Student;
