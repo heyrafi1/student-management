@@ -14,3 +14,4 @@
 - Increased student name field length.
 - Increased address field capacity.
 - Increased phone number field capacity.
+- Renamed student id field.

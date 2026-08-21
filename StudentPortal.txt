@@ -2,7 +2,7 @@
 // used for storing basic student info for now, will be updated later
 
 typedef struct {
-    int id;
+    int studentId;        // renamed from id for clarity
     char name[100];       // increased size to fit longer names
     int age;              // student's age
     float cgpa;           // cumulative GPA
