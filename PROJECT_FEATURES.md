@@ -9,3 +9,4 @@
 - Student address field added
 - Student gender field added
 - Student semester field added
+- Student credit hours field added

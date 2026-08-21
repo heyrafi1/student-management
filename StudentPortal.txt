@@ -12,4 +12,5 @@ typedef struct {
     char address[100];    // home/mailing address
     char gender[10];      // e.g Male, Female
     int semester;         // current semester number
+    int creditHours;      // total credit hours completed so far
 } Student;
