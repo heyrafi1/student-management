@@ -4,4 +4,5 @@
 typedef struct {
     int id;
     char name[50];
+    int age;        // student's age
 } Student;
