@@ -8,3 +8,4 @@
 - Student phone number field added
 - Student address field added
 - Student gender field added
+- Student semester field added
