@@ -10,4 +10,5 @@ typedef struct {
     char email[100];      // contact email
     char phone[20];       // contact number
     char address[100];    // home/mailing address
+    char gender[10];      // e.g Male, Female
 } Student;

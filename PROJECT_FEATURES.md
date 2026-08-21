@@ -7,3 +7,4 @@
 - Student email field added
 - Student phone number field added
 - Student address field added
+- Student gender field added
