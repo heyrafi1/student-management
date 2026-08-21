@@ -8,3 +8,9 @@ Student Management System is a simple project used to practice Git workflow mana
 - README.md – Project information.
 - PROJECT_FEATURES.md – List of implemented features.
 - CHANGELOG.md – History of project changes.
+
+## Team Members
+- Student 1
+- Student 2
+- Student 3
+- Student 4
