@@ -1,18 +1,19 @@
 # Project Features
 
-- Basic Student structure with id and name
-- Student age field added
-- Student CGPA field added
-- Student department field added
-- Student email field added
-- Student phone number field added
-- Student address field added
-- Student gender field added
-- Student semester field added
-- Student credit hours field added
-- Student status field added (Active/Inactive/Graduated)
-- Increased maximum student name length to 100 characters
-- Increased address field capacity to 200 characters
-- Increased phone number field capacity to 25 characters
-- Renamed 'id' field to 'studentId' for clarity
-- Renamed 'name' field to 'studentName' for clarity
+## Student struct fields (StudentPortal.txt)
+- studentId (int) – unique id for each student
+- studentName (char[100]) – full name
+- age (int) – age of the student
+- cgpa (float) – cumulative GPA
+- department (char[50]) – department name
+- email (char[100]) – contact email
+- phone (char[25]) – contact number
+- address (char[200]) – home/mailing address
+- gender (char[10]) – gender
+- semester (int) – current semester
+- creditHours (int) – credits completed so far
+- status (char[20]) – Active / Inactive / Graduated
+
+## Docs
+- README has project description, file list, and team members.
+- CHANGELOG is organized by version now instead of one flat list.
