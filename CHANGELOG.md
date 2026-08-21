@@ -5,3 +5,4 @@
 - Added student cgpa.
 - Added student department.
 - Added student email.
+- Added student phone number.

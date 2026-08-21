@@ -5,3 +5,4 @@
 - Student CGPA field added
 - Student department field added
 - Student email field added
+- Student phone number field added
