@@ -10,7 +10,10 @@ Student Management System is a simple project used to practice Git workflow mana
 - CHANGELOG.md – History of project changes.
 
 ## Team Members
-- Student 1
-- Student 2
-- Student 3
-- Student 4
+
+| Name | ID |
+|------|-----|
+| S. M. Rafiul Islam Arpon | 24-57662-2 |
+| Salim Sehjad Ridom | 24-58128-2 |
+| Md. Nazmul Islam Khan | 24-58267-2 |
+| Md Al Imran | 24-59852-3 |
