@@ -13,4 +13,5 @@ typedef struct {
     char gender[10];      // e.g Male, Female
     int semester;         // current semester number
     int creditHours;      // total credit hours completed so far
+    char status[20];      // Active / Inactive / Graduated
 } Student;

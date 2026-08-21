@@ -10,3 +10,4 @@
 - Student gender field added
 - Student semester field added
 - Student credit hours field added
+- Student status field added (Active/Inactive/Graduated)
