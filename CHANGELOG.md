@@ -1,18 +1,14 @@
 # Changelog
 
+## Version 1.3
+- Renamed id to studentId and name to studentName.
+- Increased size of name, address and phone fields.
+
+## Version 1.2
+- Added contact info fields: email, phone, address, gender.
+
+## Version 1.1
+- Added academic info fields: age, cgpa, department, semester, creditHours, status.
+
+## Version 1.0
 - Initial Student structure created.
-- Added student age.
-- Added student cgpa.
-- Added student department.
-- Added student email.
-- Added student phone number.
-- Added student address.
-- Added student gender.
-- Added student semester.
-- Added student credit hours.
-- Added student status.
-- Increased student name field length.
-- Increased address field capacity.
-- Increased phone number field capacity.
-- Renamed student id field.
-- Renamed student name field.
