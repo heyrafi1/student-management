@@ -9,7 +9,7 @@ typedef struct {
     char department[50];  // e.g CSE, EEE, BBA
     char email[100];      // contact email
     char phone[20];       // contact number
-    char address[100];    // home/mailing address
+    char address[200];    // increased size for longer addresses
     char gender[10];      // e.g Male, Female
     int semester;         // current semester number
     int creditHours;      // total credit hours completed so far

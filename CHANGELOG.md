@@ -12,3 +12,4 @@
 - Added student credit hours.
 - Added student status.
 - Increased student name field length.
+- Increased address field capacity.
